@@ -1,7 +1,8 @@
 ### ccute
 
 - Java
-- JS
+- Javascript
+- Python
 - Kotlin
 - Lua
 
