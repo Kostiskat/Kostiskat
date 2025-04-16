@@ -1,8 +1,9 @@
 ### ccute
 
-- Kotlin
+- Java
 - JS
-- Other languages
+- Kotlin
+- Lua
 
 
 cats are superior
